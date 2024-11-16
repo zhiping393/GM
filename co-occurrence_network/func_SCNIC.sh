@@ -7,7 +7,7 @@
 ## 
 ####################################################################################
 
-## input biom file (txt format after 'biom covert'; do not use biom format)
+## input biom file 
 input_biom_summary=$1
 
 
