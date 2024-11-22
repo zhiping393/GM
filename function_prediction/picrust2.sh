@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #####################################################################
-##  This script predicts functions based on 16S data using PICRUST2
+##  This script predicts functions based on 16S data using PICRUST2 
 ##
 ##
 #####################################################################
