@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 
 ## working directory
 workDir=path/to/fastq/reads
