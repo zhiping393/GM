@@ -3,7 +3,7 @@
 
 #############################################################################################
 ## This script run lefse using the lefse-formated file, e.g., 1st column = sample names,   ##
-##  2nd column = class, other columns = OTUs                                               ##
+##  2nd column = class, other columns = OTUs                                                ##
 ##                                                                                         ##
 ## outputs: pdf, png, and svg figures for both cat                                         ##
 ##                                                                                         ##
