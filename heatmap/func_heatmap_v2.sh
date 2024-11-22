@@ -2,7 +2,7 @@
 
 
 ###########################################################################
-## for help message, run func_heatmap_v2.sh -h
+## for help message, run func_heatmap_v2.sh -h 
 ##
 ##
 ## Contact: zhongzhipingemail@gmail.com
