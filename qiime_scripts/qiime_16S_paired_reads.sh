@@ -4,7 +4,7 @@
 ## run qiime2 for paired end reads
 ## need to change 5 inputs: 1) workdir=, 2) input_reads=, 3) metadatafile=, 4) classifier=, and 5) bar_name=
 ##
-## Contact: zhongzhipingemail@gmail.com
+## Contact: zhongzhipingemail@gmail.com 
 #############################################################################################################
 
 ## load software
