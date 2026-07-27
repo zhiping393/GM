@@ -1,12 +1,13 @@
 #!/bin/bash
 
 
+
 ## loop
 # for input_fastq in /fs/project/PAS1117/VranaLake/10_re-analysis/17_SingleM/01_raw_reads/*.gz; do qsub -v input_fastq=$input_fastq singleM.sh; done
 
 
 ## working directory  %%%%%% need to change
-workDir=/workpath/SingleM/02_singleM
+workDir=/workingPath/SingleM/02_singleM
 cd $workDir
 
 ## input interleaved fastq reads  %%%%%% need to change
